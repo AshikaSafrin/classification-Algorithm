@@ -1,0 +1,109 @@
+                                          Decision Tree Algorithm
+
+1.What is the overall performance of purchased & Not Purchased?
+  Accuracy:0.88
+  
+2.What is the Correct Classification of purchased & Not Purchased?
+  Recall Purchased:0.85
+  Recall Not Purchased:0.90
+  
+3.What is the both correct & Wrong Classification of purchased & Not Purchased?
+  Precision Purchased:0.81
+  Precision Not Purchased:0.92
+  
+4.What is the OverAll Performance of Purchased?
+  F1_Measure:0.83
+  
+5.What is the OverAll Performance of not Purchased?
+  F1_Measure:0.91
+  
+6.What is the average of Precision,Recall,F1_Measure?
+  Precicion of Average:0.87
+  Recall of Average:0.88
+  F1_Measure of Average:0.87
+  
+7.How far has Purchase Participated of Precision,Recall,F1_Measure?
+   Precicion of Weighted Average:0.89
+  Recall of Weighted Average:0.88
+  F1_Measure of Weighted Average:0.88
+  
+                                      Random Forest Algorithm
+
+1.What is the overall performance of purchased & Not Purchased?
+  Accuracy:0.92
+  
+2.What is the Correct Classification of purchased & Not Purchased?
+  Recall Purchased:0.88
+  Recall Not Purchased:0.94
+  
+3.What is the both correct & Wrong Classification of purchased & Not Purchased?
+  Precision Purchased:0.88
+  Precision Not Purchased:0.94
+  
+4.What is the OverAll Performance of Purchased?
+  F1_Measure:0.88
+  
+5.What is the OverAll Performance of not Purchased?
+  F1_Measure:0.94
+  
+6.What is the average of Precision,Recall,F1_Measure?
+  Precicion of Average:0.91
+  Recall of Average:0.91
+  F1_Measure of Average:0.91
+  
+7.How far has Purchase Participated of Precision,Recall,F1_Measure?
+   Precicion of Weighted Average:0.92
+  Recall of Weighted Average:0.92
+  F1_Measure of Weighted Average:0.92
+  
+  
+                                             Support Vector Machine
+
+
+1.What is the overall performance of purchased & Not Purchased?
+  Accuracy:0.79
+  
+2.What is the Correct Classification of purchased & Not Purchased?
+  Recall Purchased:0.44
+  Recall Not Purchased:0.97
+  
+3.What is the both correct & Wrong Classification of purchased & Not Purchased?
+  Precision Purchased:0.99
+  Precision Not Purchased:0.77
+  
+4.What is the OverAll Performance of Purchased?
+  F1_Measure:0.59
+  
+5.What is the OverAll Performance of not Purchased?
+  F1_Measure:0.86
+  
+6.What is the average of Precision,Recall,F1_Measure?
+  Precicion of Average:0.83
+  Recall of Average:0.71
+  F1_Measure of Average:0.73
+  
+7.How far has Purchase Participated of Precision,Recall,F1_Measure?
+   Precicion of Weighted Average:0.81
+  Recall of Weighted Average:0.79
+  F1_Measure of Weighted Average:0.77
+  
+  
+  
+                              BEST ALGORITHM OF THIS DATASET IS RANDOM FOREST
+                                      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
